@@ -1,0 +1,6 @@
+.DS_Store
+env
+.env
+pyenv.cfg
+assets/output.mp4
+pyvenv.cfg
