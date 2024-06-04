@@ -8,3 +8,5 @@
 - cp .env.example .env
 - python sound.py - generates audio file from text transcript
 - python video.py - put audio & video into a one file
+
+See example results here: https://www.youtube.com/watch?v=GlhZAu008DA 🤙
